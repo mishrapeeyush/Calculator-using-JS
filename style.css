@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin-top:30px;
+}
+table{
+margin: auto;
+
+}
+input{
+    margin-bottom: 1vh;
+    width: 257px;
+    font-size: 40px;
+    border: solid black 3px;
+    border-radius: 11px;
+}
+button{
+    width: 65px;
+    height: 50px;
+    border-radius: 8px;
+    font-size: 30px;
+    background-color: #7fadff;
+}
+.box{
+display: inline-block;
+background-color: #d5c6ef;
+padding:15px;
+border-radius: 5px;
+}
+
+h1{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-weight: bolder;
+}
